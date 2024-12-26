@@ -1,0 +1,15 @@
+{
+  "name": "auto-changelog",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ammar Farhan Mohamad Rizam <ammarfmr11@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
