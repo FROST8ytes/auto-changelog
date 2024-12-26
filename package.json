@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
   },
   "keywords": [],
   "author": "Ammar Farhan Mohamad Rizam <ammarfmr11@gmail.com>",
